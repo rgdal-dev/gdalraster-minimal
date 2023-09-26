@@ -4,7 +4,7 @@
 #ifndef rcpp_util_H
 #define rcpp_util_H
 
-#include <Rcpp.h> 
+#include <Rcpp.h>
 // [[Rcpp::plugins(cpp11)]]
 
 Rcpp::NumericMatrix _df_to_matrix(Rcpp::DataFrame df);

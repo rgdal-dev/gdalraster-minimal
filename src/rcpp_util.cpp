@@ -22,4 +22,3 @@ Rcpp::IntegerMatrix _df_to_int_matrix(Rcpp::DataFrame df) {
 	}
 	return m;
 }
-
